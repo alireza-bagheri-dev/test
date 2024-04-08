@@ -1,4 +1,4 @@
-# Testing project
+# Testing Project
 
 ## technologies
 - python
